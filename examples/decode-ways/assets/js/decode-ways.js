@@ -1,5 +1,5 @@
 /** 
-Author : Build Rise Shine 
+
 
 Created : 2023 
 
@@ -24,7 +24,7 @@ Description : Write an algorithm to determine decode ways
 
     Given a string s containing only digits, return the number of ways to decode it.
 
-(c) Copyright by BRS Studio. 
+
 **/
 
 /*

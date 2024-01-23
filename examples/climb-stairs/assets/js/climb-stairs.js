@@ -1,5 +1,17 @@
+/** 
+Script : Climb stairs
 
+Description : Write an algorithm to find out different ways to climb stairs  
 
+   You are climbing a staircase. It takes n steps to reach the top.
+   
+   Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+ **/
+/*
+Constraints for Algorithm
+    -->  1 <= n <= 45
+*/
 
 // Algorithm
 let climbStairs = function (n) {
